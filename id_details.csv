@@ -1,0 +1,124 @@
+id,name,count
+1,subject,58802
+13,architecture,29788
+15,bridges and viaducts,3864
+17,features,7249
+19,industrial,1024
+20,military,6090
+22,periods and styles,3164
+24,public and municipal,1023
+25,religious,4134
+26,residential,2934
+27,ruins,3115
+28,"townscapes, man-made features",18499
+29,"emotions, concepts and ideas",8249
+30,universal concepts,1966
+31,emotions and human qualities,1820
+33,history,1847
+40,interiors,2450
+41,domestic,1248
+47,leisure and pastimes,3130
+52,recreational activities,1166
+55,literature and fiction,2318
+58,literature (not Shakespeare),1803
+60,nature,36477
+67,animals: mammals,3941
+70,natural phenomena,1908
+71,landscape,23323
+72,plants and flowers,1735
+73,seascapes and coasts,6647
+75,times of the day,1445
+76,water: inland,11075
+77,weather,2904
+78,objects,12382
+80,fine arts and music,1810
+82,furnishings,2008
+88,clothing and personal effects,3943
+91,people,20799
+92,actions: postures and motions,6827
+93,body,2930
+94,children,2363
+95,adults,19158
+97,groups,4559
+98,nudes,2037
+102,named individuals,2864
+106,places,23842
+107,"cities, towns, villages (non-UK)",9526
+108,countries and continents,12142
+111,natural features (non-UK),4259
+112,UK natural features,4060
+113,UK countries and regions,11211
+114,UK counties,9400
+115,"UK cities, towns and villages",6817
+116,work and occupations,5134
+118,arts and entertainment,1365
+132,religion and belief,2385
+145,society,13992
+158,social comment,1625
+160,transport: land,1932
+161,transport: water,7478
+162,symbols & personifications,5022
+166,inscriptions,4609
+167,woman,7522
+169,religious and ceremonial,1015
+170,vessels and containers,1709
+174,"reading, writing, printed matter",1984
+175,actions: processes and functions,1289
+177,actions: expressive,2028
+184,abstraction,8503
+185,non-representational,6429
+189,from recognisable sources,3397
+195,man,8385
+213,house,1255
+221,figure,1771
+225,colour,2898
+226,geometric,2715
+237,Italy,3859
+270,standing,2305
+451,figure,6253
+465,church,2301
+475,lake,1712
+495,river,7683
+496,wooded,8144
+519,female,1355
+557,sea,2836
+558,coast,3606
+563,rocky,2678
+602,horse,1380
+615,head / face,1717
+636,hill,9787
+678,boat - non-specific,1931
+694,sitting,2385
+777,cliff,1365
+796,irregular forms,1840
+799,group,3792
+805,building - non-specific,2494
+880,mountain,6052
+942,valley,1894
+945,bridge,3743
+983,townscape,3093
+989,"townscape, distant",8052
+1065,tower,2888
+1138,castle,5404
+1347,cloud,1616
+1495,France,2369
+1518,harbour,1224
+1719,Scotland,1920
+1809,trees,2360
+1827,tree,1734
+1865,"boat, sailing",3452
+2063,artist's notes,1537
+2285,rocky,1141
+2355,"ship, sailing",1273
+2388,waterfront,1175
+2803,England,8381
+3561,Germany,2317
+5212,military,1564
+6729,formal qualities,6022
+6927,lifestyle and culture,1019
+9301,UK London,1348
+9326,printed text,1065
+9328,photographic,2931
+10639,"fine art and design, named works",1185
+20114,portraits,2744
+20118,individuals: male,1282
